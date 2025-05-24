@@ -1,5 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/QuTech-Delft/qilib/badge.svg?branch=dev)](https://coveralls.io/github/QuTech-Delft/qilib?branch=dev)
 
+UPDATED TO WORK WITH NUMPY 2.0
 # QILib
 
 Quantum Library for the Quantum Inspire platform
